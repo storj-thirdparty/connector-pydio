@@ -1,6 +1,6 @@
 # storj-pydio connector (uplink v1.0.5)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/storj-third-party/connector-pydio)](https://goreportcard.com/report/github.com/storj-third-party/connector-pydio)
+[![Go Report Card](https://goreportcard.com/badge/github.com/storj-thirdparty/connector-pydio)](https://goreportcard.com/report/github.com/storj-thirdparty/connector-pydio)
 
 ## Overview
 
@@ -59,8 +59,8 @@ $ ./connector-pydio --version
 $ ./connector-pydio store
 ```
 ## Documentation
-For more information on runtime flags, configuration, testing, and diagrams, check out the [Detail]() or jump to:
-* Config Files
-* Run (long version)
-* Testing
-* Flow Diagram
+For more information on runtime flags, configuration, testing, and diagrams, check out the [Detail](//github.com/storj-thirdparty/connector-pydio/wiki/) or jump to:
+* [Config Files](//github.com/storj-thirdparty/connector-pydio/wiki/#config-files)
+* [Run (long version)](//github.com/storj-thirdparty/connector-pydio/wiki/#run)
+* [Testing](//github.com/storj-thirdparty/connector-pydio/wiki/#testing)
+* [Flow Diagram](//github.com/storj-thirdparty/connector-pydio/wiki/#flow-diagram)

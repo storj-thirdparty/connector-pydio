@@ -1,6 +1,6 @@
 ## Flow Diagram
 
-![](https://github.com/storj-third-party/connector-pydio/blob/master/README.assets/arch.drawio.png)
+![](https://github.com/storj-thirdparty/connector-pydio/blob/master/README.assets/arch.drawio.png)
 
 
 ## Config Files

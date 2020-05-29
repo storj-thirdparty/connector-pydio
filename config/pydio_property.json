@@ -1,0 +1,9 @@
+{
+	"url": "urlOfPydioInstance",
+	"user": "pydioUserName",
+	"password": "pydioPassword",
+	"bucket": "io",
+	"region": "us-east-1",
+	"apiKey": "gateway",
+	"apiSecret": "gatewaysecret"
+}

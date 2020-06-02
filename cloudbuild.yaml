@@ -8,7 +8,7 @@ steps:
     env: ["GOPATH=."]  
   - id: go_linter
     name: "golangci/golangci-lint"
-    args: ["golangci-lint","run"]  
+    args: ["golangci-lint","run","--timeout","2m"]  
     env: ["GO111MODULE=on", "CGO_ENABLED=0"]
   - id: go_security
     name: "securego/gosec"

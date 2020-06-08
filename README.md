@@ -1,7 +1,7 @@
 # storj-pydio connector (uplink v1.0.5)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/storj-thirdparty/connector-pydio)](https://goreportcard.com/report/github.com/storj-thirdparty/connector-pydio)
-![Cloud Build](https://storage.googleapis.com/storj-utropic-services-badges/builds/connector-framework/branches/master.svg)
+![Cloud Build](https://storage.googleapis.com/storj-utropic-services-badges/builds/connector-pydio/branches/master.svg)
 
 
 ## Overview

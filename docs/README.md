@@ -18,7 +18,6 @@ Available Commands:
   help        Help about any command
   store       Command to upload data to a Storj V3 network.
   version     Prints the version of the tool
-
 ```
 
 `store` - Connect to the specified Pydio Cells instance (default: `pydio_property.json`). 
@@ -31,41 +30,34 @@ The following flags  can be used with the `store` command:
 
 Sample configuration files are provided in the `./config` folder.
 
-
-
 ## Requirements and Install
 
 To build from scratch, [install the latest Go](https://golang.org/doc/install#install).
 
 > Note: Ensure go modules are enabled (GO111MODULE=on)
 
-
-
 ### Option #1: clone this repo (most common)
 
 To clone the repo
 
 ```
-git clone https://github.com/storj-thirdparty/connector-pydio.git
+$ git clone https://github.com/storj-thirdparty/connector-pydio.git
 ```
 
 Then, build the project using the following:
 
 ```
-cd connector-pydio
-go build
+$ cd connector-pydio
+$ go build
 ```
-
-
 
 ### Option #2:  ``go get`` into your gopath
 
 To download the project inside your GOPATH use the following command:
 
 ```
-go get github.com/storj-thirdparty/connector-pydio
+$ go get github.com/storj-thirdparty/connector-pydio
 ```
-
 
 ## Run (short version)
 
@@ -88,7 +80,6 @@ $ ./connector-pydio --version
 ```
 $ ./connector-pydio store
 ```
-
 
 ## Flow Diagram
 

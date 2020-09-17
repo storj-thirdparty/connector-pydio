@@ -82,3 +82,4 @@ For more information on runtime flags, configuration, testing, and diagrams, che
 * [Run (long version)](//github.com/storj-thirdparty/connector-pydio/wiki/#run)
 * [Testing](//github.com/storj-thirdparty/connector-pydio/wiki/#testing)
 * [Flow Diagram](//github.com/storj-thirdparty/connector-pydio/wiki/#flow-diagram)
+* [Video](//github.com/storj-thirdparty/connector-pydio/docs/videos)

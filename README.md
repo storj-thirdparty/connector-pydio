@@ -77,6 +77,7 @@ $ ./connector-pydio store
 
 ## Documentation
 
+
 * Access documentation on local system :
   1) Install [docsify](https://www.npmjs.com/package/docsify-cli)
   2) Run the following command at the root directory of the cloned project.

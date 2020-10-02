@@ -82,15 +82,15 @@ $ ./connector-pydio store --share
 	* Windows
 		* Version: 10 Pro
 		* Processor: Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz 2.00GHz
-		* Pydio version: Pydio cells
+		* Pydio version: Pydio Cells 2.1.4
 
 	* macOS Catalina
 		* Version: 10.15.4
 		* Processor: 2.5 GHz Dual-Core Intel Core i5
-		* Pydio version: Pydio cells
+		* Pydio version: Pydio Cells 2.1.4
 
 	* ubuntu
 		* Version: 16.04 LTS
 		* Processor: AMD A6-7310 APU with AMD Radeon R4 Graphics × 4
-		* Pydio version: Pydio cells
+		* Pydio version: Pydio Cells 2.1.4
 ```		
